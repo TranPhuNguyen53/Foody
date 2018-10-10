@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="loading">Loading...</string>
+    <string name="nameCompany">©Tran Phu Nguyen</string>
+    <string name="version">Version: </string>
+    <string name="facebook_app_id">437620960096513</string>
+    <string name="forgot_password"><u>Forgot password?</u></string>
+</resources>

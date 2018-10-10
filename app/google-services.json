@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "772455548669",
+    "firebase_url": "https://fir-ccb.firebaseio.com",
+    "project_id": "fir-ccb",
+    "storage_bucket": "fir-ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772455548669:android:7e7144314e4c4275",
+        "android_client_info": {
+          "package_name": "com.example.fit.tranphunguyen.firebaserealtimelistviewccb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772455548669-ka8tj1i1tp7g929l851gqh3mobml8alo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fit.tranphunguyen.firebaserealtimelistviewccb",
+            "certificate_hash": "84944455e24b5b694fa4175b989e9342543af135"
+          }
+        },
+        {
+          "client_id": "772455548669-jp46s75lujg54546ovgvvupe5rh1k7im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY95p9btNlQQLWk08K1RZnfgrTYad_ttc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772455548669-jp46s75lujg54546ovgvvupe5rh1k7im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772455548669:android:3d44848e9fa35ce9",
+        "android_client_info": {
+          "package_name": "com.example.fit.tranphunguyen.foody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772455548669-isrkavgdi8uogqdkq7stv3ok3hr38irs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fit.tranphunguyen.foody",
+            "certificate_hash": "84944455e24b5b694fa4175b989e9342543af135"
+          }
+        },
+        {
+          "client_id": "772455548669-jp46s75lujg54546ovgvvupe5rh1k7im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY95p9btNlQQLWk08K1RZnfgrTYad_ttc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772455548669-jp46s75lujg54546ovgvvupe5rh1k7im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
